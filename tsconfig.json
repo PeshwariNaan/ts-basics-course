@@ -1,0 +1,7 @@
+{"compilerOptions": {
+    "outFile": "../../local/tsc.js",
+},
+"exclude": [
+    "node_modules",
+]
+}
